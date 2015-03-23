@@ -8,14 +8,9 @@ public class Hitbox : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D other) {
 		if (other.tag == "Item") 
 		{
-			
-		
 			other.rigidbody2D.AddForce(direction * hitpower);
-			
-			
 		}
-		
-		
+
 	}
 	
 	
