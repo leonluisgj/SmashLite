@@ -1,0 +1,1488 @@
+fileFormatVersion: 2
+guid: 594a48192461cf6448f5993e61cf26fc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: redkoma2_0
+    21300002: redkoma2_1
+    21300004: redkoma2_2
+    21300006: redkoma2_3
+    21300008: redkoma2_4
+    21300010: redkoma2_5
+    21300012: redkoma2_6
+    21300014: redkoma2_7
+    21300016: redkoma2_8
+    21300018: redkoma2_9
+    21300020: redkoma2_10
+    21300022: redkoma2_11
+    21300024: redkoma2_12
+    21300026: redkoma2_13
+    21300028: redkoma2_14
+    21300030: redkoma2_15
+    21300032: redkoma2_16
+    21300034: redkoma2_17
+    21300036: redkoma2_18
+    21300038: redkoma2_19
+    21300040: redkoma2_20
+    21300042: redkoma2_21
+    21300044: redkoma2_22
+    21300046: redkoma2_23
+    21300048: redkoma2_24
+    21300050: redkoma2_25
+    21300052: redkoma2_26
+    21300054: redkoma2_27
+    21300056: redkoma2_28
+    21300058: redkoma2_29
+    21300060: redkoma2_30
+    21300062: redkoma2_31
+    21300064: redkoma2_32
+    21300066: redkoma2_33
+    21300068: redkoma2_34
+    21300070: redkoma2_35
+    21300072: redkoma2_36
+    21300074: redkoma2_37
+    21300076: redkoma2_38
+    21300078: redkoma2_39
+    21300080: redkoma2_40
+    21300082: redkoma2_41
+    21300084: redkoma2_42
+    21300086: redkoma2_43
+    21300088: redkoma2_44
+    21300090: redkoma2_45
+    21300092: redkoma2_46
+    21300094: redkoma2_47
+    21300096: redkoma2_48
+    21300098: redkoma2_49
+    21300100: redkoma2_50
+    21300102: redkoma2_51
+    21300104: redkoma2_52
+    21300106: redkoma2_53
+    21300108: redkoma2_54
+    21300110: redkoma2_55
+    21300112: redkoma2_56
+    21300114: redkoma2_57
+    21300116: redkoma2_58
+    21300118: redkoma2_59
+    21300120: redkoma2_60
+    21300122: redkoma2_61
+    21300124: redkoma2_62
+    21300126: redkoma2_63
+    21300128: redkoma2_64
+    21300130: redkoma2_65
+    21300132: redkoma2_66
+    21300134: redkoma2_67
+    21300136: redkoma2_68
+    21300138: redkoma2_69
+    21300140: redkoma2_70
+    21300142: redkoma2_71
+    21300144: redkoma2_72
+    21300146: redkoma2_73
+    21300148: redkoma2_74
+    21300150: redkoma2_75
+    21300152: redkoma2_76
+    21300154: redkoma2_77
+    21300156: redkoma2_78
+    21300158: redkoma2_79
+    21300160: redkoma2_80
+    21300162: redkoma2_81
+    21300164: redkoma2_82
+    21300166: redkoma2_83
+    21300168: redkoma2_84
+    21300170: redkoma2_85
+    21300172: redkoma2_86
+    21300174: redkoma2_87
+    21300176: redkoma2_88
+    21300178: redkoma2_89
+    21300180: redkoma2_90
+    21300182: redkoma2_91
+    21300184: redkoma2_92
+    21300186: redkoma2_93
+    21300188: redkoma2_94
+    21300190: redkoma2_95
+    21300192: redkoma2_96
+    21300194: redkoma2_97
+    21300196: redkoma2_98
+    21300198: redkoma2_99
+    21300200: redkoma2_100
+    21300202: redkoma2_101
+    21300204: redkoma2_102
+    21300206: redkoma2_103
+    21300208: redkoma2_104
+    21300210: redkoma2_105
+    21300212: redkoma2_106
+    21300214: redkoma2_107
+    21300216: redkoma2_108
+    21300218: redkoma2_109
+    21300220: redkoma2_110
+    21300222: redkoma2_111
+    21300224: redkoma2_112
+    21300226: redkoma2_113
+    21300228: redkoma2_114
+    21300230: redkoma2_115
+    21300232: redkoma2_116
+    21300234: redkoma2_117
+    21300236: redkoma2_118
+    21300238: redkoma2_119
+    21300240: redkoma2_120
+    21300242: redkoma2_121
+    21300244: redkoma2_122
+    21300246: redkoma2_123
+    21300248: redkoma2_124
+    21300250: redkoma2_125
+    21300252: redkoma2_126
+    21300254: redkoma2_127
+    21300256: redkoma2_128
+    21300258: redkoma2_129
+    21300260: redkoma2_130
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: redkoma2_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 825
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 825
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 825
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 825
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 824
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 823
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 827
+        width: 48
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 829
+        width: 49
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 826
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 832
+        width: 26
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 832
+        width: 26
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 832
+        width: 26
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_12
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 832
+        width: 26
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 825
+        width: 42
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 755
+        width: 34
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 754
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 754
+        width: 34
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 754
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 754
+        width: 25
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 754
+        width: 5
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 754
+        width: 10
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 754
+        width: 5
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 753
+        width: 17
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 753
+        width: 10
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 753
+        width: 5
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 753
+        width: 22
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 753
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 686
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 686
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 685
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 687
+        width: 48
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 687
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_32
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 687
+        width: 60
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 688
+        width: 79
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_34
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 687
+        width: 60
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 687
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 687
+        width: 42
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 696
+        width: 26
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_38
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 696
+        width: 26
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_39
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 685
+        width: 26
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_40
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 686
+        width: 42
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 608
+        width: 46
+        height: 49
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 612
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 612
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_44
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 609
+        width: 46
+        height: 49
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 608
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_46
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 609
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_47
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 608
+        width: 70
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_48
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 608
+        width: 82
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_49
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 607
+        width: 70
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_50
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 607
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_51
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 606
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 542
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 543
+        width: 64
+        height: 40
+      alignment: 9
+      pivot: {x: .25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 543
+        width: 75
+        height: 40
+      alignment: 9
+      pivot: {x: .209999993, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_55
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 542
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: .340000004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_56
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 541
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_57
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 540
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 543
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_59
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 543
+        width: 60
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_60
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 541
+        width: 46
+        height: 49
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_61
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 541
+        width: 19
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_62
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 542
+        width: 46
+        height: 49
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_63
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 542
+        width: 19
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_64
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 541
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_65
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 542
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_66
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 543
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_67
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 455
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_68
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 456
+        width: 41
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_69
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 456
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 456
+        width: 50
+        height: 63
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_71
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 456
+        width: 53
+        height: 72
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 456
+        width: 51
+        height: 69
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 456
+        width: 50
+        height: 60
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_74
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 455
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_75
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 455
+        width: 43
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_76
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 455
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_77
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 466
+        width: 26
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_78
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 465
+        width: 26
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_79
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 458
+        width: 42
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_80
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 387
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 388
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 387
+        width: 70
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_83
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 387
+        width: 82
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_84
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 386
+        width: 70
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_85
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 386
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_86
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 385
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_87
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 270
+        width: 48
+        height: 125
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_88
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 274
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_89
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 274
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_90
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 273
+        width: 144
+        height: 96
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_91
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 273
+        width: 127
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_92
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 273
+        width: 80
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_93
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 273
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_94
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 272
+        width: 48
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_95
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 270
+        width: 48
+        height: 95
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_96
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 270
+        width: 48
+        height: 65
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_97
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 270
+        width: 48
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_98
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 270
+        width: 48
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_99
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 152
+        width: 38
+        height: 72
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 149
+        width: 45
+        height: 73
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_101
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 149
+        width: 51
+        height: 73
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_102
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 200
+        width: 71
+        height: 44
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_103
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 201
+        width: 51
+        height: 60
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_104
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 208
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_105
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 204
+        width: 46
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_106
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 202
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_107
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 203
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_108
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 203
+        width: 47
+        height: 44
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_109
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 203
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_110
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 87
+        width: 50
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_111
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 85
+        width: 45
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_112
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 85
+        width: 51
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_113
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 88
+        width: 50
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_114
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 86
+        width: 44
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_115
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 97
+        width: 44
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_116
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 84
+        width: 44
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_117
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 79
+        width: 46
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_118
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 80
+        width: 50
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_119
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 84
+        width: 44
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_120
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 81
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_121
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 103
+        width: 46
+        height: 44
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_122
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 0
+        width: 166
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 706
+        height: 102
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_124
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 18
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_125
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 20
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_126
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 21
+        width: 41
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_127
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 22
+        width: 45
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_128
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 20
+        width: 74
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_129
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 20
+        width: 56
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: redkoma2_130
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 20
+        width: 56
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
