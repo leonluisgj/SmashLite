@@ -62,12 +62,12 @@ public GameObject hitbox;
 		if (Input.GetKeyDown(KeyCode.Space)) {
 			if (!onAir) {
 				anim.SetBool("onAir",true);
-				rigidbody2D.AddForce(transform.up * jumpPower);
+				GetComponent<Rigidbody2D>().AddForce(transform.up * jumpPower);
 				onAir = true;
 			} else if (!dJump) {
 				//anim.SetTrigger("Jump");
-				rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x,0);
-				rigidbody2D.AddForce(transform.up * jumpPower);
+				GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x,0);
+				GetComponent<Rigidbody2D>().AddForce(transform.up * jumpPower);
 				dJump = true;
 			}
 		}
@@ -89,12 +89,12 @@ public GameObject hitbox;
 	
 	public void Hit() 
 	{
-		hitbox.collider2D.enabled= true;
+		hitbox.GetComponent<Collider2D>().enabled= true;
 	}
 	
 	public void EndHit() 
 	{
-		hitbox.collider2D.enabled= false;
+		hitbox.GetComponent<Collider2D>().enabled= false;
 	}
 	
 	
