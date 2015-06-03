@@ -46,6 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\00UnityAnswers\0AnimationEventsForImportedAssets\AnimationEventTestScript.cs" />
+     <Compile Include="Assets\KameBehavior.cs" />
      <Compile Include="Assets\Scripts\CamFollow.cs" />
      <Compile Include="Assets\Scripts\CustomController.cs" />
      <Compile Include="Assets\Scripts\Hitbox.cs" />

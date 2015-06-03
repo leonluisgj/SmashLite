@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: df9893f3152df2d438a59712e07524e1
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bip01 head
+    100002: bip01 l calf
+    100004: bip01 l foot
+    100006: bip01 l forearm
+    100008: bip01 l hand
+    100010: bip01 l thigh
+    100012: bip01 l toe0
+    100014: bip01 l upperarm
+    100016: bip01 pelvis
+    100018: bip01 r calf
+    100020: bip01 r foot
+    100022: bip01 r forearm
+    100024: bip01 r hand
+    100026: bip01 r thigh
+    100028: bip01 r toe0
+    100030: bip01 r upperarm
+    100032: bip01 spine
+    100034: bip01 spine1
+    100036: bip01 spine2
+    100038: bone_ig_hand_weapon_l
+    100040: bone_ig_hand_weapon_r
+    100042: guardsmen_body
+    100044: guardsmen_chest01
+    100046: guardsmen_chest02
+    100048: guardsmen_chest03
+    100050: guardsmen_chest04
+    100052: guardsmen_head01
+    100054: guardsmen_knee01
+    100056: guardsmen_knee02
+    100058: guardsmen_knife_waist
+    100060: guardsmen_l_shoulder01
+    100062: guardsmen_l_shoulder02
+    100064: guardsmen_lasgun
+    100066: guardsmen_r_shoulder
+    100068: marker_chest_back
+    100070: marker_chest_front
+    100072: marker_foot_l
+    100074: marker_foot_r
+    100076: marker_grenade_muzzle
+    100078: marker_hand_l
+    100080: marker_hand_r
+    100082: marker_head_back
+    100084: marker_head_front
+    100086: marker_icon
+    100088: marker_knife_front
+    100090: marker_knife_tip
+    100092: marker_lasgun_muzzle
+    100094: marker_leg_l_front
+    100096: marker_leg_r_front
+    100098: marker_lshldr_1
+    100100: marker_mouth
+    100102: marker_neck_back
+    100104: marker_neck_front
+    100106: marker_pelvis_back
+    100108: marker_pelvis_front
+    100110: marker_plasma_glow
+    100112: marker_plasma_muzzle
+    100114: marker_rshldr_1
+    100116: marker_syncalign_trooper
+    100118: marker_syncdeath_align_trooper
+    100120: marker_synckill_align_trooper
+    100122: Master
+    100124: strategic_point_marker
+    100126: sync_kill_4_marker
+    100128: //RootNode
+    400000: bip01 head
+    400002: bip01 l calf
+    400004: bip01 l foot
+    400006: bip01 l forearm
+    400008: bip01 l hand
+    400010: bip01 l thigh
+    400012: bip01 l toe0
+    400014: bip01 l upperarm
+    400016: bip01 pelvis
+    400018: bip01 r calf
+    400020: bip01 r foot
+    400022: bip01 r forearm
+    400024: bip01 r hand
+    400026: bip01 r thigh
+    400028: bip01 r toe0
+    400030: bip01 r upperarm
+    400032: bip01 spine
+    400034: bip01 spine1
+    400036: bip01 spine2
+    400038: bone_ig_hand_weapon_l
+    400040: bone_ig_hand_weapon_r
+    400042: guardsmen_body
+    400044: guardsmen_chest01
+    400046: guardsmen_chest02
+    400048: guardsmen_chest03
+    400050: guardsmen_chest04
+    400052: guardsmen_head01
+    400054: guardsmen_knee01
+    400056: guardsmen_knee02
+    400058: guardsmen_knife_waist
+    400060: guardsmen_l_shoulder01
+    400062: guardsmen_l_shoulder02
+    400064: guardsmen_lasgun
+    400066: guardsmen_r_shoulder
+    400068: marker_chest_back
+    400070: marker_chest_front
+    400072: marker_foot_l
+    400074: marker_foot_r
+    400076: marker_grenade_muzzle
+    400078: marker_hand_l
+    400080: marker_hand_r
+    400082: marker_head_back
+    400084: marker_head_front
+    400086: marker_icon
+    400088: marker_knife_front
+    400090: marker_knife_tip
+    400092: marker_lasgun_muzzle
+    400094: marker_leg_l_front
+    400096: marker_leg_r_front
+    400098: marker_lshldr_1
+    400100: marker_mouth
+    400102: marker_neck_back
+    400104: marker_neck_front
+    400106: marker_pelvis_back
+    400108: marker_pelvis_front
+    400110: marker_plasma_glow
+    400112: marker_plasma_muzzle
+    400114: marker_rshldr_1
+    400116: marker_syncalign_trooper
+    400118: marker_syncdeath_align_trooper
+    400120: marker_synckill_align_trooper
+    400122: Master
+    400124: strategic_point_marker
+    400126: sync_kill_4_marker
+    400128: //RootNode
+    4300000: guardsmen_knife_waist
+    4300002: guardsmen_l_shoulder02
+    4300004: guardsmen_lasgun
+    4300006: guardsmen_chest03
+    4300008: guardsmen_chest02
+    4300010: guardsmen_chest01
+    4300012: guardsmen_knee01
+    4300014: guardsmen_knee02
+    4300016: guardsmen_chest04
+    4300018: guardsmen_head01
+    4300020: guardsmen_body
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: guardsmen_body
+    13700002: guardsmen_chest01
+    13700004: guardsmen_chest02
+    13700006: guardsmen_chest03
+    13700008: guardsmen_chest04
+    13700010: guardsmen_head01
+    13700012: guardsmen_knee01
+    13700014: guardsmen_knee02
+    13700016: guardsmen_knife_waist
+    13700018: guardsmen_l_shoulder02
+    13700020: guardsmen_lasgun
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

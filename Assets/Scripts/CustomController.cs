@@ -12,7 +12,7 @@ private bool onAir = true;
 private bool dJump = false;
 private bool Guard = false;
 
-private bool right = true;
+public bool right = true;
 public GameObject hitbox;
 
 	// Use this for initialization
@@ -73,11 +73,19 @@ public GameObject hitbox;
 		}
 	
 		if (Input.GetKeyDown(KeyCode.Q) && !onAir ) {
-			readyHit();
+			doBazooka();
 		
 		}
 	
 	}
+	
+	
+	private void doBazooka()
+	{
+		anim.SetTrigger("DoBazooka");
+	
+	}
+	
 	
 	private void readyHit() 
 	{

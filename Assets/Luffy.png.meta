@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 25aa13e98e03fa94194268b141b764d2
-timeCreated: 1427160230
+timeCreated: 1433329471
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -2602,8 +2602,8 @@ TextureImporter:
         y: 5649
         width: 71
         height: 41
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .839999974, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Luffy_133
       rect:
@@ -2612,8 +2612,8 @@ TextureImporter:
         y: 5649
         width: 92
         height: 41
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .870000005, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Luffy_134
       rect:
@@ -2622,8 +2622,8 @@ TextureImporter:
         y: 5649
         width: 86
         height: 41
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .779999971, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Luffy_135
       rect:
@@ -2632,8 +2632,8 @@ TextureImporter:
         y: 5649
         width: 107
         height: 41
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .180000007, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Luffy_136
       rect:
@@ -2642,8 +2642,8 @@ TextureImporter:
         y: 5649
         width: 61
         height: 41
-      alignment: 7
-      pivot: {x: .5, y: 0}
+      alignment: 9
+      pivot: {x: .280000001, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Luffy_137
       rect:
